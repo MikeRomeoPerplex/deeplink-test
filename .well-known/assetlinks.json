@@ -1,0 +1,12 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.arrivatvv",
+            "sha256_cert_fingerprints": [
+                "E7:82:E0:1E:33:50:32:09:A2:E3:36:3D:D8:3D:A0:03:59:86:25:99:6B:25:F1:60:89:BE:03:01:E6:F6:E4:A5"
+            ]
+        }
+    }
+]
